@@ -1,0 +1,7 @@
+c:\users\student\documents\Data-Bass\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\student\documents\Data-Bass\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\student\documents\Data-Bass\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\student\documents\Data-Bass\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+c:\users\student\documents\Data-Bass\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+c:\users\student\documents\Data-Bass\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\student\documents\Data-Bass\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
